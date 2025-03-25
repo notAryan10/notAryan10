@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notAryan10
-- 👀 I’m interested in Video editing
+- 👀 I’m interested in Video editing, Game Development
 - 🌱 I’m currently learning B.tech in CS and AL/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
