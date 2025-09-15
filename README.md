@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/notAryan10/notAryan10/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/notAryan10/notAryan10/blob/output/github-contribution-grid-snake.svg)
 
 ###
