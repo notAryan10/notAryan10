@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-![Snake animation](https://raw.githubusercontent.com/notAryan10/notAryan10/output/snake.svg)
-
-###
