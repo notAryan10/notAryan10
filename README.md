@@ -87,7 +87,6 @@
 
 <br/>
 
-### Skill Tree
 <svg width="1000" height="460" viewBox="0 0 1000 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
