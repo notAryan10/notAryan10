@@ -1,0 +1,61 @@
+<svg width="1000" height="460" viewBox="0 0 1000 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2620"/>
+      <stop offset="100%" stop-color="#152F27"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="460" fill="url(#bg)"/>
+
+  <rect x="10" y="10" width="980" height="440" fill="none" stroke="#E8B23C" stroke-width="4"/>
+  <rect x="18" y="18" width="964" height="424" fill="none" stroke="#E8B23C" stroke-width="1" opacity="0.5"/>
+  <rect x="10" y="10" width="16" height="16" fill="#E8B23C"/>
+  <rect x="974" y="10" width="16" height="16" fill="#E8B23C"/>
+  <rect x="10" y="434" width="16" height="16" fill="#E8B23C"/>
+  <rect x="974" y="434" width="16" height="16" fill="#E8B23C"/>
+
+  <text x="40" y="52" font-family="monospace" font-weight="bold" font-size="20" fill="#E8B23C" letter-spacing="4">SKILL TREE</text>
+  <line x1="40" y1="64" x2="960" y2="64" stroke="#E8B23C" stroke-width="1" opacity="0.4"/>
+
+  <!-- quadrant divider -->
+  <line x1="500" y1="80" x2="500" y2="440" stroke="#E8B23C" stroke-width="1" opacity="0.25"/>
+  <line x1="40" y1="260" x2="960" y2="260" stroke="#E8B23C" stroke-width="1" opacity="0.25"/>
+
+  <!-- Q1: Product & App -->
+  <g font-family="monospace" font-size="16">
+    <text x="40" y="105" fill="#E2725B" font-weight="bold">Product &amp; App</text>
+    <text x="40" y="135" fill="#F2E9DC">├── React Native</text>
+    <text x="260" y="135" fill="#6B9E78">production mobile apps</text>
+    <text x="40" y="163" fill="#F2E9DC">├── TypeScript / JavaScript</text>
+    <text x="40" y="191" fill="#F2E9DC">└── Express</text>
+  </g>
+
+  <!-- Q2: AI/ML & Data -->
+  <g font-family="monospace" font-size="16">
+    <text x="540" y="105" fill="#E2725B" font-weight="bold">AI / ML &amp; Data</text>
+    <text x="540" y="135" fill="#F2E9DC">├── Python</text>
+    <text x="540" y="163" fill="#F2E9DC">├── Pandas</text>
+    <text x="540" y="191" fill="#F2E9DC">└── Kaggle</text>
+  </g>
+
+  <!-- Q3: Game Dev & 3D -->
+  <g font-family="monospace" font-size="16">
+    <text x="40" y="290" fill="#E2725B" font-weight="bold">Game Dev &amp; 3D</text>
+    <text x="40" y="320" fill="#F2E9DC">├── Unity</text>
+    <text x="40" y="348" fill="#F2E9DC">├── Unreal Engine</text>
+    <text x="40" y="376" fill="#F2E9DC">├── Blender</text>
+    <text x="260" y="376" fill="#6B9E78">core contributor (C++)</text>
+    <text x="40" y="404" fill="#F2E9DC">└── Three.js</text>
+  </g>
+
+  <!-- Q4: Craft & Tools -->
+  <g font-family="monospace" font-size="16">
+    <text x="540" y="290" fill="#E2725B" font-weight="bold">Craft &amp; Tools</text>
+    <text x="540" y="320" fill="#F2E9DC">├── After Effects</text>
+    <text x="770" y="320" fill="#6B9E78">video editing</text>
+    <text x="540" y="348" fill="#F2E9DC">├── Figma</text>
+    <text x="540" y="376" fill="#F2E9DC">├── MySQL</text>
+    <text x="540" y="404" fill="#F2E9DC">└── Xcode</text>
+  </g>
+</svg>

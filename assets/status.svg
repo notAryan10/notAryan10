@@ -1,0 +1,59 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F2620"/>
+      <stop offset="100%" stop-color="#152F27"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="330" fill="url(#bg)"/>
+
+  <g opacity="0.06" stroke="#F2E9DC">
+    <line x1="0" y1="24" x2="1000" y2="24" stroke-width="1"/>
+    <line x1="0" y1="48" x2="1000" y2="48" stroke-width="1"/>
+    <line x1="0" y1="72" x2="1000" y2="72" stroke-width="1"/>
+    <line x1="0" y1="96" x2="1000" y2="96" stroke-width="1"/>
+    <line x1="0" y1="120" x2="1000" y2="120" stroke-width="1"/>
+    <line x1="0" y1="144" x2="1000" y2="144" stroke-width="1"/>
+    <line x1="0" y1="168" x2="1000" y2="168" stroke-width="1"/>
+    <line x1="0" y1="192" x2="1000" y2="192" stroke-width="1"/>
+    <line x1="0" y1="216" x2="1000" y2="216" stroke-width="1"/>
+    <line x1="0" y1="240" x2="1000" y2="240" stroke-width="1"/>
+    <line x1="0" y1="264" x2="1000" y2="264" stroke-width="1"/>
+    <line x1="0" y1="288" x2="1000" y2="288" stroke-width="1"/>
+    <line x1="0" y1="312" x2="1000" y2="312" stroke-width="1"/>
+  </g>
+
+  <rect x="10" y="10" width="980" height="310" fill="none" stroke="#E8B23C" stroke-width="4"/>
+  <rect x="18" y="18" width="964" height="294" fill="none" stroke="#E8B23C" stroke-width="1" opacity="0.5"/>
+  <rect x="10" y="10" width="16" height="16" fill="#E8B23C"/>
+  <rect x="974" y="10" width="16" height="16" fill="#E8B23C"/>
+  <rect x="10" y="304" width="16" height="16" fill="#E8B23C"/>
+  <rect x="974" y="304" width="16" height="16" fill="#E8B23C"/>
+
+  <text x="40" y="52" font-family="monospace" font-weight="bold" font-size="20" fill="#E8B23C" letter-spacing="4">STATUS</text>
+  <line x1="40" y1="64" x2="960" y2="64" stroke="#E8B23C" stroke-width="1" opacity="0.4"/>
+
+  <!-- rows: label at x=40 fixed width, value at x=210 -->
+  <g font-family="monospace" font-size="17">
+    <text x="40" y="98" fill="#6B9E78">ROLE</text>
+    <text x="220" y="98" fill="#F2E9DC">SDE Intern @ FischerJordan</text>
+
+    <text x="40" y="130" fill="#6B9E78">BUILDING</text>
+    <text x="220" y="130" fill="#F2E9DC">Consumer mobile app — React Native</text>
+
+    <text x="40" y="162" fill="#6B9E78">FOCUS</text>
+    <text x="220" y="162" fill="#F2E9DC">Mobile UX, real-time features, game dev</text>
+
+    <text x="40" y="194" fill="#6B9E78">SCHOOL</text>
+    <text x="220" y="194" fill="#F2E9DC">B.Tech CS (AI &amp; ML), Newton School of Tech · 2028</text>
+
+    <text x="40" y="226" fill="#6B9E78">GUILDS</text>
+    <text x="220" y="226" fill="#F2E9DC">R.E.Y — Respawn Every Year (founder)</text>
+    <text x="220" y="248" fill="#F2E9DC">Content Creation Club (video editor)</text>
+
+    <text x="40" y="280" fill="#6B9E78">CONTACT</text>
+    <text x="220" y="280" fill="#E2725B">aryanverma1857@gmail.com</text>
+
+  </g>
+</svg>
